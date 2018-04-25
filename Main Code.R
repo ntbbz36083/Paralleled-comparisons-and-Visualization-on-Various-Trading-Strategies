@@ -1,7 +1,7 @@
-#Author: Carl Zheng
+#Author: John Li
 # Reset Work Directory
 getwd()
-setwd("F:/Google Drive/Study/FE 800 Final Project/code/")
+setwd("F:/Google Drive/Project/code/")
 
 ######################################################  Step 1  Downlaod and Clean Data ####################################################
 ## stock.AllData, stock.close is the Downloada data.
